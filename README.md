@@ -1,7 +1,7 @@
 # Android-Apps
 
 GeoQuiz:
-My first app. Simple app that asks qustion about different geographical loactions.
+Simple app that asks qustion about different geographical loactions.
 
 Image Tag:
 Takes all the images in a directory and assigns them tags so the images can be searched using those tags. Uses Clarify API.
