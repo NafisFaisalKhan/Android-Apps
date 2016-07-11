@@ -31,6 +31,5 @@ public final class ClarifaiContract {
         public static final String COLUMN_TAG18 = "tag18";
         public static final String COLUMN_TAG19 = "tag19";
         public static final String COLUMN_TAG20 = "tag20";
-        //public static final String COLUMN_NULLABLE = "TRUE";
     }
 }
