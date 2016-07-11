@@ -126,6 +126,8 @@ public class MainActivity extends AppCompatActivity {
                     }
                     c.close();
 
+
+
                 Intent intent = new Intent(MainActivity.this, GridViewActivity.class);
                 intent.putExtra("grid", (Serializable) grid);
                 startActivity(intent);
